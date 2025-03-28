@@ -26,10 +26,18 @@ IATI Plus is designed to handle IATI standard and non standard information. The 
 
 What XML elements and attributes can encapsulate and articulate fundraising information
 
+
 #### Transactions
 
 What XML elements and attributes can support contracts and payment execution?
+https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/transaction/
 
 #### Geolocation
 
 What new elements and attribnutes can support IATI data being used by geographic models?
+https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/location/
+
+#### Results
+
+Work needs to be carried out to re-think about results reporting.
+https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/result/
